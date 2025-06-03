@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "workspaces": [
-    "examples"
+    "examples/*"
   ],
   "scripts": {
     "dev": "npm run dev -w examples"
