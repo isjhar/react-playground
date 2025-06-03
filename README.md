@@ -1,6 +1,6 @@
 # React Playground
 
-I use this project for exploring or prototyping something.
+I use this project for exploring or prototyping something using React.
 Check examples folder to check the detail.
 
 # Example
