@@ -1,0 +1,15 @@
+{
+  "name": "react-playground",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "examples"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Isjhar Kautsar",
+  "license": "MIT",
+  "description": "Playground project with React"
+}
