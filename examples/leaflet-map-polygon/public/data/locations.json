@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Jl. Percetakan Negara 5, Gg.G No.14, RT.10/RW.1, Daerah Khusus Ibukota Jakarta 10570",
+        "position": [-6.1921826,106.8573727],
+        "polygons": [
+            [-6.191924136374827, 106.85708284378053],
+            [-6.192548111392816, 106.85705065727234],
+            [-6.192569443859028, 106.8572759628296],
+            [-6.192302787969423, 106.85731351375581],
+            [-6.192302787969423, 106.8574744462967],
+            [-6.191833473276682, 106.85735642910005]
+        ]
+    },
+    {
+        "name": "Jl Kesehatan D/72, Dki Jakarta",
+        "position": [-6.2523867,106.9136183],
+        "polygons": []
+    },
+    {
+        "name": "Jl. Tirtosari Jl. Purwonegaran No.6, RT.01/RW.05, Sriwedari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57141",
+        "position": [-7.2283159,109.4918262],
+        "polygons": []
+    },
+    {
+        "name": "Jl Ciputat Raya 4, Dki Jakarta",
+        "position": [-6.2425109,106.7783703],
+        "polygons": []
+    },
+    {
+        "name": "Jl HOS Cokroaminoto 5, Jakarta",
+        "position": [-6.1975303,106.8260788],
+        "polygons": []
+    }
+]
