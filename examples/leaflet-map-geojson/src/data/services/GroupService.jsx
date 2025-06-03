@@ -1,7 +1,9 @@
-import groupData from "../group.json";
+import axios from "axios";
 
 export async function getGroupData() {
-  return groupData.map((group) => {
+  const response = await axios.get("/data/group.json");
+
+  return response.data.map((group) => {
     return {
       name: group.name,
       countries: group.countries,

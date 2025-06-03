@@ -66,14 +66,17 @@ export default function LeftletMap({ countries = [] }) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution="&copy; OpenStreetMap contributors"
       />
-      {geoJsonData.map((geoJson, index) => (
-        <GeoJSON
-          key={geoJson.data.name + Date.now()}
-          data={geoJson.data.geo}
-          style={geoJson.style}
-          onEachFeature={(feature, layer) => onEachFeature(layer, geoJson.data)}
-        />
-      ))}
+      {geoJsonData.length > 0 &&
+        geoJsonData.map((geoJson, index) => (
+          <GeoJSON
+            key={geoJson.data.name + Date.now()}
+            data={geoJson.data.geo}
+            style={geoJson.style}
+            onEachFeature={(feature, layer) =>
+              onEachFeature(layer, geoJson.data)
+            }
+          />
+        ))}
     </MapContainer>
   );
 }

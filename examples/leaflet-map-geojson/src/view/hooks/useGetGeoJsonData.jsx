@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { getGeoJsonData } from "../../data/services/GeoJsonService";
 
 export function useGetGeoJsonData(countryNames) {

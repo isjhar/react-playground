@@ -5,21 +5,21 @@ import { useEffect, useMemo, useState } from "react";
 import Form from "react-bootstrap/Form";
 
 export default function GroupMap() {
+  const [selectedGroup, setSelectedGroup] = useState([]);
+  const [countries, setCountries] = useState([]);
+
   const groups = useGetGroupData();
   const countryNames = useMemo(() => getCountryNames(groups), [groups]);
   const geoJsonData = useGetGeoJsonData(countryNames);
 
-  const [selectedGroup, setSelectedGroup] = useState([]);
-  const [countries, setCountries] = useState([]);
-
   useEffect(() => {
     setSelectedGroup(groups);
-  }, [groups, geoJsonData]);
+  }, [groups]);
 
   useEffect(() => {
     const selectedCountries = mapGroupsToCountries(selectedGroup, geoJsonData);
     setCountries(selectedCountries);
-  }, [selectedGroup]);
+  }, [selectedGroup, geoJsonData]);
 
   return (
     <div
@@ -40,7 +40,6 @@ export default function GroupMap() {
           <Form.Select
             aria-label="Default select example"
             onChange={(e) => {
-              console.log(e.target.value);
               const selectedValue = e.target.value;
               setSelectedGroup(
                 selectedValue === "All"
