@@ -6,7 +6,7 @@
     "examples"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npm run dev -w examples"
   },
   "keywords": [],
   "author": "Isjhar Kautsar",
