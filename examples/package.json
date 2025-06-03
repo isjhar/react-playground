@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Isjhar Kautsar",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.0"
+  }
 }

@@ -1,0 +1,344 @@
+[
+    {
+        "name": "Billions",
+        "countries": [
+            "United States of America",
+            "Russia"
+        ], 
+        "upVotes": 91,
+        "riskCategory": "Threat",
+        "timePosted": "21:00",
+        "startDate": "2025-05-18",
+        "endDate": "2025-10-11",
+        "displayColor": "#eb3323ff"
+    },
+    {
+        "name": "Orange",
+        "countries": [
+            "Russia",
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria"
+        ], 
+        "upVotes": 91,
+        "riskCategory": "Threat",
+        "timePosted": "10:00",
+        "startDate": "2025-05-12",
+        "endDate": "2025-10-05",
+        "displayColor": "#9fcd63ff"
+    },
+    {
+        "name": "Lion",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Germany",
+            "Ethiopia",
+            "Egypt"
+        ], 
+        "upVotes": 57,
+        "riskCategory": "Threat",
+        "timePosted": "14:00",
+        "startDate": "2025-05-03",
+        "endDate": "2025-09-26",
+        "displayColor": "#4cafeaff"
+    },
+    {
+        "name": "Potato",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Germany"            
+        ], 
+        "upVotes": 45,
+        "riskCategory": "Opp",
+        "timePosted": "12:00",
+        "startDate": "2025-05-05",
+        "endDate": "2025-09-28",
+        "displayColor": "#fffd54ff"
+    },
+    {
+        "name": "Shoes",
+        "countries": [
+            "Egypt",
+            "Brazil",
+            "Chile"
+        ], 
+        "upVotes": 45,
+        "riskCategory": "Opp",
+        "timePosted": "2122:00",
+        "startDate": "2025-05-17",
+        "endDate": "2025-10-10",
+        "displayColor": "#f6c142ff"
+    },
+    {
+        "name": "Soap",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "China",
+            "India",
+            "Germany",
+            "Ethiopia"
+        ], 
+        "upVotes": 34,
+        "riskCategory": "Threat",
+        "timePosted": "12:00",
+        "startDate": "2025-05-08",
+        "endDate": "2025-10-01",
+        "displayColor": "#7f5119ff"
+    },
+    {
+        "name": "Bottle",
+        "countries": [
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 34,
+        "riskCategory": "Threat",
+        "timePosted": "12:00",
+        "startDate": "2025-05-08",
+        "endDate": "2025-10-01",
+        "displayColor": "#acc8e9ff"
+    },
+    {
+        "name": "Tiger",
+        "countries": [            
+            "Nigeria",
+            "Algeria",
+            "Ghana"
+        ], 
+        "upVotes": 31,
+        "riskCategory": "Opp",
+        "timePosted": "12:00",
+        "startDate": "2025-05-16",
+        "endDate": "2025-10-09",
+        "displayColor": "#06215cff"
+    },
+    {
+        "name": "Mango",
+        "countries": [
+            "United States of America",                                    
+            "Nigeria",
+            "Algeria",
+            "Germany",
+            "Ethiopia",
+            "Egypt",
+            "Brazil",            
+            "Ghana"
+        ], 
+        "upVotes": 30,
+        "riskCategory": "Threat",
+        "timePosted": "10:00",
+        "startDate": "2025-05-04",
+        "endDate": "2025-09-27",
+        "displayColor": "#fffd54ff"
+    },
+    {
+        "name": "Rice",
+        "countries": [
+            "Nigeria",
+            "Algeria",
+            "Ethiopia",
+            "Egypt",
+            "Ghana"
+        ], 
+        "upVotes": 30,
+        "riskCategory": "Threat",
+        "timePosted": "08:30",
+        "startDate": "2025-05-07",
+        "endDate": "2025-09-30",
+        "displayColor": "#b02318ff"
+    },
+    {
+        "name": "Red",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "China",
+            "Germany",
+            "Ethiopia"
+        ], 
+        "upVotes": 30,
+        "riskCategory": "Opp",
+        "timePosted": "21:00",
+        "startDate": "2025-05-10",
+        "endDate": "2025-10-03",
+        "displayColor": "#9fcd63ff"
+    },
+    {
+        "name": "Black",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 28,
+        "riskCategory": "Opp",
+        "timePosted": "13:00",
+        "startDate": "2025-05-02",
+        "endDate": "2025-10-08",
+        "displayColor": "#eb3323ff"
+    },
+    {
+        "name": "Aeroplane",
+        "countries": [
+            "United States of America",
+            "Nigeria",
+            "Algeria",
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 25,
+        "riskCategory": "Opp",
+        "timePosted": "08:30",
+        "startDate": "2025-05-15",
+        "endDate": "2025-10-08",
+        "displayColor": "#7f5119ff"
+    },
+    {
+        "name": "Ball",
+        "countries": [
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 23,
+        "riskCategory": "Threat",
+        "timePosted": "22:00",
+        "startDate": "2025-05-09",
+        "endDate": "2025-10-02",
+        "displayColor": "#4cafeaff"
+    },
+    {
+        "name": "White",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Germany",
+            "Ethiopia",
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 20,
+        "riskCategory": "Threat",
+        "timePosted": "12:00",
+        "startDate": "2025-05-01",
+        "endDate": "2025-09-24",
+        "displayColor": "#fffd54ff"
+    },
+    {
+        "name": "Twenty",
+        "countries": [
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 17,
+        "riskCategory": "Threat",
+        "timePosted": "04:00",
+        "startDate": "2025-05-20",
+        "endDate": "2025-10-13",
+        "displayColor": "#bfbfbfff"
+    },
+    {
+        "name": "Green",
+        "countries": [
+            "United States of America",
+            "Russia",
+            "Germany",
+            "Ethiopia"
+        ], 
+        "upVotes": 13,
+        "riskCategory": "Threat",
+        "timePosted": "01:00",
+        "startDate": "2025-05-11",
+        "endDate": "2025-10-04",
+        "displayColor": "#06215cff"
+    },
+    {
+        "name": "Ten",
+        "countries": [
+            "Russia",
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 12,
+        "riskCategory": "Threat",
+        "timePosted": "01:00",
+        "startDate": "2025-05-19",
+        "endDate": "2025-10-12",
+        "displayColor": "#9fcd63ff"
+    },
+    {
+        "name": "Africa",
+        "countries": [
+            "China",
+            "India",
+            "Nigeria",
+            "Algeria",
+            "Egypt",
+            "Brazil",
+            "Chile",
+            "Ghana"
+        ], 
+        "upVotes": 10,
+        "riskCategory": "Opp",
+        "timePosted": "09:00",
+        "startDate": "2025-05-06",
+        "endDate": "2025-09-29",
+        "displayColor": "#acc8e9ff"
+    },
+    {
+        "name": "Wine",
+        "countries": [
+            "Germany",
+            "Egypt",
+            "Brazil",
+            "Chile"
+        ], 
+        "upVotes": 10,
+        "riskCategory": "Threat",
+        "timePosted": "09:00",
+        "startDate": "2025-05-14",
+        "endDate": "2025-10-07",
+        "displayColor": "#b02318ff"
+    }
+]
